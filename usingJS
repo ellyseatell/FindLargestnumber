@@ -1,0 +1,2 @@
+  const arr = [1, 2, 3];
+const max = Math.max(...arr); //because its an array, if it wasnt an array we use math.max(listhere)
